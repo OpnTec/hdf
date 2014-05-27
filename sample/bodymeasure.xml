@@ -1,0 +1,132 @@
+<!DOCTYPE bdf encoding="UTF-8"?>
+<document-info>
+ <about>
+  <title>John Doe</title>
+  <date>2013-04-06T17:12:10</date>
+  <creation-date>2013-02-03T22:01:18</creation-date>
+  <url>downloaded from</url>
+  <license>public domain</license>
+  <language>en-US</language>
+ </about>
+ <author>
+  <family-name>John Doe</family-name>
+  <given-name>John Doe</given-name>
+ </author>
+
+...img embedded...(iris, finger etc)
+...img rendered 3D...
+...img rendered 2D...
+
+<document-info>
+ <personal>
+   <family-name>Dang</family-name>
+   <given-name>Hong Phuc</given-name>
+   <birth-date>1992-02-17T10:01:18</birth-date>
+   <sex>female</sex>
+ </personal>
+ <body-measurements>
+   <unit>cm</unit>
+   <head>
+     <head_girth></head_girth>
+     <head_and_neck_length></head_and_neck_length>
+   </head>
+   <neck>
+     <mid_neck_girth></mid_neck_girth>
+     <neck_base_girth></neck_base_girth>
+   </neck>
+   <torso>
+     <shoulder_girth></shoulder_girth>
+     <upper_chest_girth></upper_chest_girth>
+     <bust__girth></bust__girth>
+     <under_bust_girth></under_bust_girth>
+     <waist_girth></waist_girth>
+     <waist_to_hip_height></waist_to_hip_height>
+     <waist_to_knee_height></waist_to_knee_height>
+     <waist_height></waist_height>
+     <side_waist_length></side_waist_length>
+     <center_front_waist_length></center_front_waist_length>
+     <center_back_waist_length></center_back_waist_length>
+     <shoulder_length></shoulder_length>
+     <shoulder_and_arm_length></shoulder_and_arm_length>
+     <upper_front_chest_width></upper_front_chest_width>
+     <front_chest_width></front_chest_width>
+     <across_front_shoulder_width></across_front_shoulder_width>
+     <across_back_shoulder_width></across_back_shoulder_width>
+     <upper_back_width></upper_back_width>
+     <back_width></back_width>
+     <shoulder_width></shoulder_width>
+     <bustpoint_to_bustpoint></bustpoint_to_bustpoint>
+     <halter_bustpoint_to_bustpoint></halter_bustpoint_to_bustpoint>
+     <neck_to_bustpoint></neck_to_bustpoint>
+     <shoulder_slope_degree></shoulder_slope_degree>
+   </torso>
+   <arm>
+     <trunk_girth></trunk_girth>
+     <armscye_girth></armscye_girth>
+     <elbow_girth></elbow_girth>
+     <upper_arm_girth></upper_arm_girth>
+     <wrist_girth></wrist_girth>
+     <underarm_length></underarm_length>
+     <cervical_to_wrist_length></cervical_to_wrist_length>
+     <shoulder_to_elbow_length></shoulder_to_elbow_length>
+     <arm_length></arm_length>
+     <scye_depth></scye_depth>
+   </arm>
+   <hand>
+     <hand_girth></hand_girth>
+     <hand_length></hand_length>
+     <hand_width></hand_width>
+     <thumb_length></thumb_length>
+     <index_finger_length></index_finger_length>
+     <middle_finger_length></middle_finger_length>
+     <ring_finger_length></ring_finger_length>
+     <little_finger_length></little_finger_length>
+     <thumb_width></thumb_width></thumb_width></thumb_width>
+     <index_finger_width></index_finger_width>
+     <middle_finger_width></middle_finger_width>
+     <ring_finger_width></ring_finger_width>
+     <little_finger_width></little_finger_width>
+     <thumb_girth></thumb_girth>
+     <index_finger_girth></index_finger_girth>
+     <middle_finger_girth></middle_finger_girth>
+     <ring_finger_girth></ring_finger_girth>
+     <little_finger_girth></little_finger_girth>
+   </hand>
+   <hip>
+     <high_hip_girth></high_hip_girth>
+     <hip_girth></hip_girth>
+     <high_hip_height></high_hip_height>
+     <hip_height></hip_height>
+     <crotch_length></crotch_length>
+     <crotch_height></crotch_height>
+     <rise_height></rise_height>
+   </hip>
+   <leg>
+     <thigh_girth></thigh_girth>
+     <mid_thigh_girth></mid_thigh_girth>
+     <knee_girth></knee_girth>
+     <knee_girth></knee_girth>
+     <calf_girth></calf_girth>
+     <ankle_girth></ankle_girth>
+     <cervical_to_knee_height></cervical_to_knee_height>
+     <cervical_height></cervical_height>
+     <knee_height></knee_height>
+     <ankle_height></ankle_height>
+   </leg>
+   <foot>
+    <foot_length></foot_length>
+    <foot_width></foot_width>
+    <foot_across_top></foot_across_top>
+   </foot>
+ </body-measurements>
+ <body-colors>
+   <eye-color>green</eye-color>
+   <hair-color>brown</hair-color>
+   <skin-complexion></skin-complexion>
+ </body-colors>
+ <bio-data>
+   <blood-type>A</blood-type>
+   <allergy>A</allergy>
+   <eye_performnce>0.8</eye_performnce>
+ </bio-data>
+</bdf>
