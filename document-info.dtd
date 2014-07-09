@@ -24,7 +24,7 @@ arm, hand, hip, leg, foot,image) >
 <!ELEMENT neck_base_girth (#PCDATA)>
 <!ELEMENT torso (shoulder_girth, upper_chest_girth, bust_girth, 
  under_bust_girth, waist_girth, waist_to_hip_height, waist_to_knee_height, 
- waist_height, side_waist_length, center_front_waist_length, center_back_waist_length, shoulder_length, shoulder_and_arm_length, upper_front_chest_width,front_chest_width, across_front_shoulder_width, across_back_shoulder_width, upper_back_width, back_width, shoulder_width, bustpoint_to_bustpoint, halter_bustpoint_to_bustpoint, neck_to_bustpoint, shoulder_drop, shoulder_slope_degree) >
+ waist_height, side_waist_length, center_front_waist_length, center_back_waist_length, shoulder_length, shoulder_and_arm_length, upper_front_chest_width, front_chest_width,  across_front_shoulder_width, across_back_shoulder_width, upper_back_width, back_width, shoulder_width, bustpoint_to_bustpoint, halter_bustpoint_to_bustpoint, neck_to_bustpoint, shoulder_drop, shoulder_slope_degree) >
 <!ELEMENT shoulder_girth (#PCDATA)>
 <!ELEMENT upper_chest_girth (#PCDATA)>
 <!ELEMENT bust_girth (#PCDATA)>
