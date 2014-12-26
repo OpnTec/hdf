@@ -1,4 +1,4 @@
-<!DOCTYPE bdf encoding="UTF-8"?>
+<!DOCTYPE hdf encoding="UTF-8"?>
 <document-info>
  <about>
   <title>John Doe</title>
@@ -21,7 +21,7 @@
  <personal>
    <family-name>Dang</family-name>
    <given-name>Hong Phuc</given-name>
-   <birth-date>1992-02-17T10:01:18</birth-date>
+   <birth-date>1987-02-17T10:01:18</birth-date>
    <sex>female</sex>
  </personal>
  <body-measurements>
